@@ -5,7 +5,7 @@ Below you will find some Google Colab notebooks.
 <table class="no-border table" style="border:none">
   <tr>
     <th><h4>Stable Diffusion<br>Dreambooth Colab edition for people in a hurry</h4></td>  
-    <th><h4>Stable Diffusion<br>Kista WebUI v1.5</h4></th>  
+    <th><h4>Stable Diffusion<br>v1.5</h4></th>  
   </tr>
   <tr>
     <td>
@@ -15,7 +15,7 @@ Below you will find some Google Colab notebooks.
     <td>
       <a href="https://colab.research.google.com/github/steinhaug/stable-diffusion/blob/main/KISTA_Automatic1111_Colab.ipynb?v10" target="_blank"><img alt="Open Notebook in Colab" src="https://img.shields.io/badge/Kista%20--%20SD%20Automatic1111-PRO%20Notebook-blue?logo=googlecolab"></a>
       <a href="https://colab.research.google.com/github/steinhaug/stable-diffusion/blob/main/KISTA_WebUI_Colab.ipynb?v1.5" target="_blank"><img alt="Open Notebook in Colab" src="https://img.shields.io/badge/Kista%20--%20SD%20WebUI-PRO%20Notebook-blue?logo=googlecolab"></a>
-      <p>Want to use the Automatic WebUI and ControlNet? Use this one.</p>
+      <p>Automatic1111 or Cozy-Nest, both with ControlNet.</p>
     </td>  
   </tr>
   <tr>
