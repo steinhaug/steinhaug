@@ -13,7 +13,8 @@ Below you will find some Google Colab notebooks.
       <p>Want to train your own AI model ? You need 6 pictures and 30 minutes... I made it easy for you!</p>
     </td>  
     <td>
-      <a href="https://colab.research.google.com/github/steinhaug/stable-diffusion/blob/main/KISTA_WebUI_Colab.ipynb?v1.5" target="_blank"><img alt="Open Notebook in Colab" src="https://img.shields.io/badge/KISTA%20--%20WebUI-PRO%20Notebook-blue?logo=googlecolab"></a>
+      <a href="https://colab.research.google.com/github/steinhaug/stable-diffusion/blob/main/KISTA_Automatic1111_Colab.ipynb?v10" target="_blank"><img alt="Open Notebook in Colab" src="https://img.shields.io/badge/Kista%20--%20SD%20Automatic1111-PRO%20Notebook-blue?logo=googlecolab"></a>
+      <a href="https://colab.research.google.com/github/steinhaug/stable-diffusion/blob/main/KISTA_WebUI_Colab.ipynb?v1.5" target="_blank"><img alt="Open Notebook in Colab" src="https://img.shields.io/badge/Kista%20--%20SD%20WebUI-PRO%20Notebook-blue?logo=googlecolab"></a>
       <p>Want to use the Automatic WebUI and ControlNet? Use this one.</p>
     </td>  
   </tr>
