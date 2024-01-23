@@ -9,11 +9,11 @@ Below you will find some Google Colab notebooks.
   </tr>
   <tr>
     <td>
-      <a href="https://colab.research.google.com/github/steinhaug/stable-diffusion/blob/main/Dreambooth_Colab_edition_for_people_in_a_hurry_fp16.ipynb" target="_blank"><img alt="Open in Colab" src="https://tinyurl.com/3x8u8dhx"></a>
+      <a href="https://colab.research.google.com/github/steinhaug/stable-diffusion/blob/main/Dreambooth_Colab_edition_for_people_in_a_hurry_fp16.ipynb" target="_blank"><img alt="Open Notebook in Colab" src="https://img.shields.io/badge/Dreambooth%20--%20for%20people%20in%20a%20hurry-PRO%20Notebook-blue?logo=googlecolab"></a>
       <p>Want to train your own AI model ? You need 6 pictures and 30 minutes... I made it easy for you!</p>
     </td>  
     <td>
-      <a href="https://colab.research.google.com/github/steinhaug/stable-diffusion/blob/main/KISTA_WebUI_Colab.ipynb?v1.5" target="_blank"><img alt="Open in Colab" src="https://tinyurl.com/bdfk7fwy"></a>
+      <a href="https://colab.research.google.com/github/steinhaug/stable-diffusion/blob/main/KISTA_WebUI_Colab.ipynb?v1.5" target="_blank"><img alt="Open Notebook in Colab" src="https://img.shields.io/badge/KISTA%20--%20WebUI-PRO%20Notebook-blue?logo=googlecolab"></a>
       <p>Want to use the Automatic WebUI and ControlNet? Use this one.</p>
     </td>  
   </tr>
@@ -24,7 +24,7 @@ Below you will find some Google Colab notebooks.
   <tr>
     <td>&nbsp;</td>  
     <td>
-      <a href="https://colab.research.google.com/github/steinhaug/stable-diffusion/blob/main/KISTA_SDXL_WebUI_Colab.ipynb?v1.0" target="_blank"><img alt="Open Notebook in Colab" src="https://img.shields.io/badge/Kista%20--%20SDXL%20WebUI-PRO%20Notebook-blue?logo=googlecolab"></a>
+      <a href="https://colab.research.google.com/github/steinhaug/stable-diffusion/blob/main/KISTA_SDXL_WebUI_Colab.ipynb?v1.0" target="_blank"><img alt="Open Notebook in Colab" src="https://img.shields.io/badge/KISTA%20--%20SDXL%20WebUI-PRO%20Notebook-blue?logo=googlecolab"></a>
       <p>Want to use the Automatic WebUI? Use this one.</p>
     </td>  
   </tr>
