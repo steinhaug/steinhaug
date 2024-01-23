@@ -18,9 +18,13 @@ Below you will find some Google Colab notebooks.
     </td>  
   </tr>
   <tr>
+    <th>&nbsp;</td>  
+    <th><h4>Stable Diffusion<br>Kista SDXL WebUI v1.0</h4></th>  
+  </tr>
+  <tr>
     <td>&nbsp;</td>  
     <td>
-      <a href="https://colab.research.google.com/github/steinhaug/stable-diffusion/blob/main/KISTA_SDXL_WebUI_Colab.ipynb?v1.0" target="_blank"><img alt="Open in Colab" src="https://tinyurl.com/bdfk7fwy"></a>
+      <a href="https://colab.research.google.com/github/steinhaug/stable-diffusion/blob/main/KISTA_SDXL_WebUI_Colab.ipynb?v1.0" target="_blank"><img alt="Open Notebook in Colab" src="https://img.shields.io/badge/Kista%20--%20SDXL%20WebUI-PRO%20Notebook-blue?logo=googlecolab"></a>
       <p>Want to use the Automatic WebUI? Use this one.</p>
     </td>  
   </tr>
