@@ -17,6 +17,13 @@ Below you will find some Google Colab notebooks.
       <p>Want to use the Automatic WebUI and ControlNet? Use this one.</p>
     </td>  
   </tr>
+  <tr>
+    <td>&nbsp;</td>  
+    <td>
+      <a href="https://colab.research.google.com/github/steinhaug/stable-diffusion/blob/main/KISTA_SDXL_WebUI_Colab.ipynb?v1.0" target="_blank"><img alt="Open in Colab" src="https://tinyurl.com/bdfk7fwy"></a>
+      <p>Want to use the Automatic WebUI? Use this one.</p>
+    </td>  
+  </tr>
 </table>
 
 ### External Colabs
