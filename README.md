@@ -20,7 +20,7 @@ Below you will find some Google Colab notebooks.
   </tr>
   <tr>
     <th>&nbsp;</td>  
-    <th><h4>Stable Diffusion<br>Kista SDXL WebUI v1.0</h4></th>  
+    <th><h4>Stable Diffusion XL<br>v1.0</h4></th>  
   </tr>
   <tr>
     <td>&nbsp;</td>  
